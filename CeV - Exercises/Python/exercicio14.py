@@ -1,0 +1,1 @@
+tamanho = int(input)
